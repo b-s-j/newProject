@@ -24,7 +24,7 @@
 
 --- Horizontal Rule ---
 
-[title](https://www.facebook.com)
+[Link to facebook](https://www.facebook.com)
 
 ![alt text](/pizzaPromo.png)
 
