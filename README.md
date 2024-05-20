@@ -35,3 +35,11 @@
 | Header | Title |
 | Paragraph | Text | 
 
+### Fenced Code Block
+```
+{
+    "firstName": "Bern",
+    "lastName": "Palabasan",
+    "age": "25",
+}
+```
